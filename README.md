@@ -43,7 +43,10 @@
 - 🧑‍💻 **Vice President - Computer Engineering Club ICON**
   - *2024.01 ~ Present*  
   - ICON  -Hello C 교육기획, 동아리 운영, 행사 주관 등 전반적인 조직 관리 및 기획
-
+    
+- 📡 **6G AI 통신 실습 및 프로젝트 - 전남대학교 차세대통신혁신융합대학사업단**
+  - *2025.01.20 ~ 2025.01.24*
+    
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchan1057&show_icons=true&theme=radical)
