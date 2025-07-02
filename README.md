@@ -33,19 +33,25 @@
 
 ## 💼 Experience
 
-- 🎤 **Event Host - KEPCO KDN 행사 진행 스태프**
+🎤 **Event Host - KEPCO KDN 행사 진행 스태프**
   - *Role: 행사 부스운영 및 운영 보조*
 
-- 💻 **Kakao Tech Campus 3기 - Back-End 과정 수료 중**
+💻 **Kakao Tech Campus 3기 - Back-End 과정 수료 중**
   - *2025.04 ~ Present*  
   - Spring Boot, JDBC, Clean Code, TDD, API 설계 등 실전 중심의 백엔드 트랙 학습 중
 
-- 🧑‍💻 **Vice President - Computer Engineering Club ICON**
+🤝 **Software Volunteer - COUV (under CODECLUB)**
+- *2025.03 ~ 2025.07*
+- CODECLUB 소속 봉사 동아리 COUV에서 활동
+- SW 도구를 활용한 지역 커뮤니티 봉사 프로젝트 참여 
+
+🧑‍💻 **Vice President - Computer Engineering Club ICON**
   - *2024.01 ~ Present*  
   - ICON  -Hello C 교육기획, 동아리 운영, 행사 주관 등 전반적인 조직 관리 및 기획
     
 - 📡 **6G AI 통신 실습 및 프로젝트 - 전남대학교 차세대통신혁신융합대학사업단**
   - *2025.01.20 ~ 2025.01.24*
+    
     
 ## 📊 GitHub Stats
 
