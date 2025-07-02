@@ -27,8 +27,8 @@
 
 ## 🏆 Awards
 
-- 🥈 **Silver Prize** - 2025 Chonnam National University Digital Competition *(Software Division)* - Team. BaoFamily
-
+- 🥈 **Silver Prize** - 2025 Chonnam National University Digital Competition *(Software Division)* - Team. BaoFamily  
+- 🚗 **진행 중 - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition**
 ---
 
 ## 💼 Experience
