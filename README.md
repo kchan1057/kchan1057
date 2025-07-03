@@ -10,9 +10,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
 ---
 
@@ -62,4 +63,4 @@
 ## 🧠 BOJ Stats
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awdr1057)](https://solved.ac/awdr1057)  
-[![Solved.ac 미니](http://mazassumnida.wtf/api/mini/generate_badge?boj=awdr1057)](https://solved.ac/awdr1057)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) [![Solved.ac 미니](http://mazassumnida.wtf/api/mini/generate_badge?boj=awdr1057)](https://solved.ac/awdr1057)
