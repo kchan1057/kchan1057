@@ -40,15 +40,23 @@
 💻 **Kakao Tech Campus 3기 - Back-End 과정 수료 중**
   - *2025.04 ~ Present*  
 
+🧑‍💻 **Vice President - Computer Engineering Club ICON**
+  - *2025.01 ~ Present*
+  - Hello, C! 교육 운영 및 총괄, 동아리 웹사이트 제작 프로젝트 진행 등.
+    
 🤝 **Software Volunteer - COUV (under CODECLUB)**
 - *2025.03 ~ 2025.07*
 - CODECLUB 소속 봉사 동아리 COUV에서 활동
-- SW 도구를 활용한 지역 커뮤니티 봉사 프로젝트 참여 
+- SW 도구를 활용한 지역 커뮤니티 봉사 프로젝트 참여
 
-🧑‍💻 **Vice President - Computer Engineering Club ICON**용
+🚗 **Mac(Mobility Ai Computing) Club - 전남대학교 인공지능혁신융합대학사업단**
+  - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition 참여중
+
+🧑‍💻 **6G AI 통신 실습 및 프로젝트 - 전남대학교 차세대통신혁신융합대학사업단**
   - *2025.01.20 ~ 2025.01.24*
   - MALTAB을 이용한 5G 통신장비 운용
-    
+
+ 
     
 ## 📊 GitHub Stats
 
