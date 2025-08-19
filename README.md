@@ -1,3 +1,12 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kchan1057&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kchan1057"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ## 🔗 Blog & Tech
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@awdr1057/posts)
