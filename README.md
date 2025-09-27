@@ -6,15 +6,6 @@
 />
 </a>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kchan1057&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/kchan1057?pet-id=759740906215915152"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
 
 ## 🔗 Blog & Tech
 
