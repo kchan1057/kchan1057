@@ -46,12 +46,14 @@
 🎤 **Event Host - KEPCO KDN 행사 진행 스태프**
   - *Role: 행사 부스운영 및 운영 보조*
 
-💻 **Kakao Tech Campus 3기 - Back-End 과정 수료 중**
-  - *2025.04 ~ Present*  
+💻 **Kakao Tech Campus 3기 - Back-End 과정 수료**
+  - *2025.04 ~ 11.14*
+  - 안전한 소모임을 위한 어플 '안전모' 개발
 
 🧑‍💻 **Vice President - Computer Engineering Club ICON**
   - *2025.01 ~ Present*
-  - Hello, C! 교육 운영 및 총괄, 동아리 웹사이트 제작 프로젝트 진행 등.
+  - *2025.03 ~ 06* : Hello, C 강의 운영
+  - *2025.09 ~ ing* : Hello, C++ 강의 운영
     
 🤝 **Software Volunteer - COUV (under CODECLUB)**
 - *2025.03 ~ 2025.07*
