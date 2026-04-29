@@ -29,16 +29,17 @@
 ## 📜 Certifications
 
 ![TOEIC](https://img.shields.io/badge/TOEIC-895점-1a73e8?style=flat-square&logoColor=white)
+![OPIC](https://img.shields.io/badge/OPIC-IM2점-1a73e8?style=flat-square&logoColor=white)
 ![한국사검정능력시험](https://img.shields.io/badge/한국사검정능력시험-1급-8a2be2?style=flat-square&logoColor=white)
 ![TOPCIT](https://img.shields.io/badge/TOPCIT-LEVEL3-ef6c00?style=flat-square&logoColor=white)
 ![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-1a73e8?style=flat-square&logoColor=white)
 
 ---
 
 ## 🏆 Awards
 
 - 🥈 **Silver Prize** - 2025 Chonnam National University Digital Competition *(Software Division)* - Team. BaoFamily  
-- 🚗 **진행 중 - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition**
 ---
 
 ## 💼 Experience
@@ -51,7 +52,7 @@
   - 안전한 소모임을 위한 어플 '안전모' 개발
 
 🧑‍💻 **Vice President - Computer Engineering Club ICON**
-  - *2025.01 ~ Present*
+  - *2025.01 ~ 2026.01*
   - *2025.03 ~ 06* : Hello, C 강의 운영
   - *2025.09 ~ ing* : Hello, C++ 강의 운영
     
@@ -60,8 +61,6 @@
 - CODECLUB 소속 봉사 동아리 COUV에서 활동
 - SW 도구를 활용한 지역 커뮤니티 봉사 프로젝트 참여
 
-🚗 **Mac(Mobility Ai Computing) Club - 전남대학교 인공지능혁신융합대학사업단**
-  - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition 참여중
 
 🧑‍💻 **6G AI 통신 실습 및 프로젝트 - 전남대학교 차세대통신혁신융합대학사업단**
   - *2025.01.20 ~ 2025.01.24*
