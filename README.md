@@ -10,8 +10,7 @@
 ## 🔗 Blog & Tech
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@awdr1057/posts)
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/starchange1)
-
+PS/CS/Dev
 ---
 
 ## 💻 My Skills
@@ -49,12 +48,13 @@
 
 💻 **Kakao Tech Campus 3기 - Back-End 과정 수료**
   - *2025.04 ~ 11.14*
-  - 안전한 소모임을 위한 어플 '안전모' 개발
+  - 안전한 소모임을 위한 어플 '안전모' 개발 - BE 담당
 
 🧑‍💻 **Vice President - Computer Engineering Club ICON**
-  - *2025.01 ~ 2026.01*
+  - *2025.01 ~ 2026.01* 
   - *2025.03 ~ 06* : Hello, C 강의 운영
-  - *2025.09 ~ ing* : Hello, C++ 강의 운영
+  - *2025.09 ~ 12* : Hello, C++ 강의 운영
+  - *2026.03 ~ 05* : Hello, C 강의 운영
     
 🤝 **Software Volunteer - COUV (under CODECLUB)**
 - *2025.03 ~ 2025.07*
@@ -66,6 +66,19 @@
   - *2025.01.20 ~ 2025.01.24*
   - MALTAB을 이용한 5G 통신장비 운용
 
+💻 **총무를 위한 자동화 플랫폼 - AutoFeeBot 개발**
+  - *2025.08 ~ 2026.12*
+  - 캡스톤 프로젝트 A+
+  - BE/FE/APP 총괄 개발
+
+💻 **단안 영상 기반 3D 공간 분석 및 부하 최적화 서비스**
+  - *2026.03 ~ ing*
+  - BE/APP 총괄 개발
+  - 부하 테스트 및 튜닝 최적화 진행 중
+
+💻 **LLM 기반 습관 제작 서비스 - Habit Maker**
+  - *2026.03 ~ ing*
+  - BE 개발 담당
  
     
 ## 📊 GitHub Stats
