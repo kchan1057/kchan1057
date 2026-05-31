@@ -8,7 +8,7 @@
 
 ## 📊 Project
 
-💻 **금융 정보를 AI요약을 한 눈에! 서비스 - FinSight**
+💻 **금융 정보를 AI요약으로 한 눈에! 서비스 - FinSight**
   - *2026.06 ~ ing*
   - 1인 사이드 프로젝트(FE/BE/APP/AI)
 
