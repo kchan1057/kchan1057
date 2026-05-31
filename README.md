@@ -34,8 +34,10 @@
 
 ## 🔗 Blog & Tech
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@awdr1057/posts)
-PS/CS/Dev
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@awdr1057/posts)  PS/CS/Dev
+
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/starchange1)
+취준일기
 ---
 
 ## 📜 Certifications
