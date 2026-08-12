@@ -42,10 +42,12 @@
 ## 📜 Certifications
 
 ![TOEIC](https://img.shields.io/badge/TOEIC-895점-1a73e8?style=flat-square&logoColor=white)
+![TOEIC Speaking](https://img.shields.io/badge/TOEICSpeaking-AL-1a73e8?style=flat-square&logoColor=white)
 ![OPIC](https://img.shields.io/badge/OPIC-IM2-1a73e8?style=flat-square&logoColor=white)
 ![한국사검정능력시험](https://img.shields.io/badge/한국사검정능력시험-1급-8a2be2?style=flat-square&logoColor=white)
-![TOPCIT](https://img.shields.io/badge/TOPCIT-LEVEL3-ef6c00?style=flat-square&logoColor=white)
+![TOPCIT](https://img.shields.io/badge/TOPCIT-594점-ef6c00?style=flat-square&logoColor=white)
 ![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![ADSP](https://img.shields.io/badge/ADSP-1a73e8?style=flat-square&logoColor=white)
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-1a73e8?style=flat-square&logoColor=white)
 
 ---
